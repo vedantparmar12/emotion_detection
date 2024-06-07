@@ -52,19 +52,12 @@ content_copy
 Inference: Use infer.py to load the trained model and predict emotions on new images.
 Dataset
 Dataset: Describe the dataset used for training and evaluation (e.g., name, size, source).
+
 Results link:
 ```
 https://docs.google.com/spreadsheets/d/1yiVR2MO70st1NFXqhWsk64VtHxPkdQrCSDXfXE8reOU/edit?gid=536768246#gid=536768246
 ```
 Classification Report
-Emotion	Precision	Recall	F1-Score	Support
-Sad	0.8201	0.7893	0.8044	3407
-Disgust	0.7005	0.5007	0.5840	1490
-Angry	0.7855	0.7999	0.7926	2898
-Neutral	0.9257	0.9192	0.9225	10657
-Fear	0.8114	0.9054	0.8558	10557
-Surprise	0.8256	0.7497	0.7858	5209
-Happy	0.8411	0.8029	0.8216	3730
 
 drive_spreadsheet
 Export to Sheets
