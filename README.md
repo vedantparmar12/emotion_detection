@@ -77,14 +77,10 @@ OpenCV (cv2): Image loading and basic processing.
 Image Transformations: (CenterCrop, Normalize, RandomRotation, etc.) To augment the data and improve model robustness.
 Transfer Learning: Leveraging pre-trained models to accelerate training and achieve better results.
 Contributing
+
+
 Contributions are welcome! Please feel free to open issues or submit pull requests.
 
 
 
 
-tune
-
-share
-
-
-more_vert
